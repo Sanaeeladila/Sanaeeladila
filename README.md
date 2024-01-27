@@ -14,8 +14,7 @@ Languages: C, JavaScript, Java, PHP, Python, SQL, PL/SQL, HTML/CSS
 Frameworks: Bootstrap, Laravel
 
 🤝 Let's Connect
-
-[LinkedIn]: https://www.linkedin.com/in/sanae-el-adila-342731201/
+    [LinkedIn]: https://www.linkedin.com/in/sanae-el-adila-342731201/
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration, questions, or just a friendly chat!
 
