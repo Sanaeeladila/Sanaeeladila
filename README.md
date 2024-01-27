@@ -1,16 +1,16 @@
-### Hi there 👋
+👋 Hi there!
 
-<!--
-**Sanaeeladila/Sanaeeladila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sanae El Adila, a dedicated software engineering student passionate about turning ideas into code. My journey into the world of programming began with curiosity and has blossomed into a profound enthusiasm for crafting robust and elegant solutions.
 
-Here are some ideas to get you started:
+🚀 Quick Overview
+🔭 Currently, I'm focused on honing my skills and seeking internship opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 💡 Interested in DevOps. -->
+🛠️ Tech Stack
+Languages: C, JavaScript, Java, PHP, Python, SQL, PL/SQL, HTML/CSS
+Frameworks: Bootstrap, Laravel
+🤝 Let's Connect
+[LinkedIn]: https://www.linkedin.com/in/sanae-el-adila-342731201/
+Feel free to explore my repositories and don't hesitate to reach out for collaboration, questions, or just a friendly chat!
+
+Happy coding! 🚀
