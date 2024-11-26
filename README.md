@@ -9,9 +9,9 @@ I'm Sanae El Adila, a dedicated software engineering student passionate about tu
 <!-- 💡 Interested in DevOps. -->
 🛠️ Tech Stack
 
-Languages: C, JavaScript, Java, PHP, Python, SQL, PL/SQL, HTML/CSS
+Languages: C, JavaScript, Java, J2EE, PHP, Python, SQL, PL/SQL, HTML/CSS
 
-Frameworks: Bootstrap, Laravel
+Frameworks: Bootstrap, Laravel, Flask, Spring boot
 
 🤝 Let's Connect
     [LinkedIn]: https://www.linkedin.com/in/sanae-el-adila-342731201/
